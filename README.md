@@ -1,8 +1,8 @@
 # Mintlify-Clone #
 
 
---   Live demo - https://vmintlify-clone.netlify.app/
---   Fonts Used - https://github.com/rsms/inter
+### **Live demo** - [netlify](https://vmintlify-clone.netlify.app/)
+### **fonts used** - [GitHub](https://github.com/rsms/inter)
 
 
 
